@@ -1,0 +1,32 @@
+/* बाकी सब CSS वैसी ही रहे */
+#resultForm {
+  margin-top: 20px;
+}
+
+#resultForm input {
+  padding: 10px;
+  margin: 10px 0;
+  width: 100%;
+  max-width: 400px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+#resultForm button {
+  padding: 10px 20px;
+  background-color: #004080;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#resultForm button:hover {
+  background-color: #003060;
+}
+
+#resultOutput {
+  margin-top: 20px;
+  font-weight: bold;
+  color: green;
+}
